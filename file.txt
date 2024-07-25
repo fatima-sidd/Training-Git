@@ -1,6 +1,3 @@
-Initial main branch content
-
-Additional changes on main
-
-Feature branch content
-
+Initial content
+Added feature X
+Fixed bug in feature X
